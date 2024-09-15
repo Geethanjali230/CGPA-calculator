@@ -1,0 +1,20 @@
+OUTPUT:
+
+welcome to cgpa calculator! let's calculate your cgpa
+enter number of subjects:
+6
+enter total number of marks:
+600
+enter your 1 subject
+89
+enter your 2 subject
+56
+enter your 3 subject
+78
+enter your 4 subject
+90
+enter your 5 subject
+67
+enter your 6 subject
+89
+The required cgpa is 8.228070175438598
